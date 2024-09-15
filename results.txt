@@ -1,0 +1,55 @@
+---------------------------- AAPL --------------------------------------
+
+MAPE Error for AAPL with latency of 2 days (VI): 1.34       (5 states)
+MAPE Error for AAPL with latency of 2 days (EM): 1.34       (4 states)
+MAPE Error for AAPL with latency of 2 days (KMeans): 1.21   (6 states)
+
+MAPE Error for AAPL with latency of 4 days (VI): 1.34       (4 states)
+MAPE Error for AAPL with latency of 4 days (EM): 1.34       (6 states)
+MAPE Error for AAPL with latency of 4 days (KMeans): 1.19   (7 states)
+
+MAPE Error for AAPL with latency of 7 days (VI): 1.34       (5 states)
+MAPE Error for AAPL with latency of 7 days (EM): 1.34       (5 states)
+MAPE Error for AAPL with latency of 7 days (KMeans): 1.24   (7 states)
+
+MAPE Error for AAPL with latency of 14 days (VI): 1.34      (5 states)
+MAPE Error for AAPL with latency of 14 days (EM): 1.34      (5 states)
+MAPE Error for AAPL with latency of 14 days (KMeans): 1.34  (6 states)
+
+---------------------------- NVDA --------------------------------------
+
+MAPE Error for NVDA with latency of 2 days (VI): 2.94       (4 states)
+MAPE Error for NVDA with latency of 2 days (EM): 2.85       (4 states)
+MAPE Error for NVDA with latency of 2 days (KMeans): 2.82   (7 states)
+
+MAPE Error for NVDA with latency of 4 days (VI): 2.87       (7 states)
+MAPE Error for NVDA with latency of 4 days (EM): 2.85       (7 states)
+MAPE Error for NVDA with latency of 4 days (KMeans): 2.93   (6 states)
+
+MAPE Error for NVDA with latency of 7 days (VI): 2.87       (7 states)
+MAPE Error for NVDA with latency of 7 days (EM): 2.85       (5 states)
+MAPE Error for NVDA with latency of 7 days (KMeans): 2.82   (7 states)
+
+MAPE Error for NVDA with latency of 14 days (VI): 2.87      (7 states)
+MAPE Error for NVDA with latency of 14 days (EM): 2.85      (7 states)
+MAPE Error for NVDA with latency of 14 days (KMeans): 2.94  (6 states)
+
+---------------------------- MSFT --------------------------------------
+
+MAPE Error for MSFT with latency of 2 days (VI): 1.05       (6 states)
+MAPE Error for MSFT with latency of 2 days (EM): 1.08       (3 states)
+MAPE Error for MSFT with latency of 2 days (KMeans): 1.08   (7 states)
+
+MAPE Error for MSFT with latency of 4 days (VI): 1.05       (5 states)
+MAPE Error for MSFT with latency of 4 days (EM): 1.04       (4 states)
+MAPE Error for MSFT with latency of 4 days (KMeans): 1.08   (6 states)
+
+MAPE Error for MSFT with latency of 7 days (VI): 1.04       (5 states)
+MAPE Error for MSFT with latency of 7 days (EM): 1.30       (5 states)
+MAPE Error for MSFT with latency of 7 days (KMeans): 1.04   (7 states)
+
+MAPE Error for MSFT with latency of 14 days (VI): 1.04      (4 states)
+MAPE Error for MSFT with latency of 14 days (EM): 1.30      (5 states)
+MAPE Error for MSFT with latency of 14 days (KMeans): 1.08  (5 states)
+
+

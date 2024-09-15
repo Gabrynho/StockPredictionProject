@@ -1,0 +1,464 @@
+HMM with for AAPL with latency of 2 days
+
+VI HMM with 1 states for AAPL has log likelihood of 37443.92758754381
+EM HMM with 1 states for AAPL has log likelihood of 29182.036156505426
+K-Means HMM with 1 states for AAPL has BIC score of -17886.866603143422
+
+VI HMM with 2 states for AAPL has log likelihood of 38234.55691855859
+EM HMM with 2 states for AAPL has log likelihood of 30858.395498284313
+K-Means HMM with 2 states for AAPL has BIC score of -19045.04517419658
+
+VI HMM with 3 states for AAPL has log likelihood of 38743.187253132695
+EM HMM with 3 states for AAPL has log likelihood of 31823.189321799036
+K-Means HMM with 3 states for AAPL has BIC score of -19580.52390185078
+
+VI HMM with 4 states for AAPL has log likelihood of 40300.156103746536
+EM HMM with 4 states for AAPL has log likelihood of 32009.66434677841
+K-Means HMM with 4 states for AAPL has BIC score of -20044.06180076335
+
+VI HMM with 5 states for AAPL has log likelihood of 40431.43058174713
+EM HMM with 5 states for AAPL has log likelihood of 31661.243339710465
+K-Means HMM with 5 states for AAPL has BIC score of -20060.812061314406
+
+VI HMM with 6 states for AAPL has log likelihood of 40048.873162459575
+EM HMM with 6 states for AAPL has log likelihood of 31602.68349840579
+K-Means HMM with 6 states for AAPL has BIC score of -20267.811606575582
+
+VI HMM with 7 states for AAPL has log likelihood of 39908.62137482002
+EM HMM with 7 states for AAPL has log likelihood of 31469.822522814666
+K-Means HMM with 7 states for AAPL has BIC score of -20229.457789024164
+
+MAPE Error for AAPL with latency of 2 days (VI): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 2 days (VI): 1.3063805851180121
+MAPE Error for AAPL with latency of 2 days (EM): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 2 days (EM): 1.3063805851180121
+MAPE Error for AAPL with latency of 2 days (KMeans): 1.2134500064968272
+MAPE Error Standard Deviation for AAPL with latency of 2 days (KMeans): 1.2600078630420735
+
+----------------------------------------------------------------------------------------
+
+HMM with for AAPL with latency of 4 days
+VI HMM with 1 states for AAPL has log likelihood of 62306.93064015998
+EM HMM with 1 states for AAPL has log likelihood of 48543.30622127959
+K-Means HMM with 1 states for AAPL has BIC score of -17886.866603143422
+
+VI HMM with 2 states for AAPL has log likelihood of 64962.8101091676
+EM HMM with 2 states for AAPL has log likelihood of 49961.13771452779
+K-Means HMM with 2 states for AAPL has BIC score of -19047.894105732914
+
+VI HMM with 3 states for AAPL has log likelihood of 65438.36009033657
+EM HMM with 3 states for AAPL has log likelihood of 50418.84044661656
+K-Means HMM with 3 states for AAPL has BIC score of -19580.52390185078
+
+VI HMM with 4 states for AAPL has log likelihood of 67695.86394410666
+EM HMM with 4 states for AAPL has log likelihood of 52151.2947788568
+K-Means HMM with 4 states for AAPL has BIC score of -20044.06180076335
+
+VI HMM with 5 states for AAPL has log likelihood of 67606.85466314049
+EM HMM with 5 states for AAPL has log likelihood of 50546.98828787918
+K-Means HMM with 5 states for AAPL has BIC score of -20081.448687478056
+
+VI HMM with 6 states for AAPL has log likelihood of 67487.06956714347
+EM HMM with 6 states for AAPL has log likelihood of 52939.83238176531
+K-Means HMM with 6 states for AAPL has BIC score of -20168.010285605316
+
+VI HMM with 7 states for AAPL has log likelihood of 67221.25452575448
+EM HMM with 7 states for AAPL has log likelihood of 52692.82224706234
+K-Means HMM with 7 states for AAPL has BIC score of -20311.781630501177
+
+MAPE Error for AAPL with latency of 4 days (VI): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 4 days (VI): 1.3063805851180121
+MAPE Error for AAPL with latency of 4 days (EM): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 4 days (EM): 1.3063805851180121
+MAPE Error for AAPL with latency of 4 days (KMeans): 1.1896347071866114
+MAPE Error Standard Deviation for AAPL with latency of 4 days (KMeans): 1.2713032966565743
+
+----------------------------------------------------------------------------------------
+
+HMM with for AAPL with latency of 7 days
+
+VI HMM with 1 states for AAPL has log likelihood of 99402.44633263639
+EM HMM with 1 states for AAPL has log likelihood of 77422.61887287455
+K-Means HMM with 1 states for AAPL has BIC score of -17886.866603143422
+
+VI HMM with 2 states for AAPL has log likelihood of 103691.61019640684
+EM HMM with 2 states for AAPL has log likelihood of 79877.87281846783
+K-Means HMM with 2 states for AAPL has BIC score of -19045.04517419658
+
+VI HMM with 3 states for AAPL has log likelihood of 104733.17502640649
+EM HMM with 3 states for AAPL has log likelihood of 85482.50841222215
+K-Means HMM with 3 states for AAPL has BIC score of -19572.43663192925
+
+VI HMM with 4 states for AAPL has log likelihood of 107815.68430956619
+EM HMM with 4 states for AAPL has log likelihood of 85296.48857210303
+K-Means HMM with 4 states for AAPL has BIC score of -20028.28028072628
+
+VI HMM with 5 states for AAPL has log likelihood of 108250.31904750521
+EM HMM with 5 states for AAPL has log likelihood of 86059.22912944808
+K-Means HMM with 5 states for AAPL has BIC score of -20097.173173532894
+
+VI HMM with 6 states for AAPL has log likelihood of 107979.23619419629
+EM HMM with 6 states for AAPL has log likelihood of 85365.48315018273
+K-Means HMM with 6 states for AAPL has BIC score of -20092.271018685144
+
+VI HMM with 7 states for AAPL has log likelihood of 107562.15373497915
+EM HMM with 7 states for AAPL has log likelihood of 85199.65774782187
+K-Means HMM with 7 states for AAPL has BIC score of -20200.534620672002
+
+MAPE Error for AAPL with latency of 7 days (VI): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 7 days (VI): 1.3063805851180121
+MAPE Error for AAPL with latency of 7 days (EM): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 7 days (EM): 1.3063805851180121
+MAPE Error for AAPL with latency of 7 days (KMeans): 1.2451276633883297
+MAPE Error Standard Deviation for AAPL with latency of 7 days (KMeans): 1.2847273780651673
+
+----------------------------------------------------------------------------------------
+
+HMM with for AAPL with latency of 14 days
+
+VI HMM with 1 states for AAPL has log likelihood of 185024.4770746467
+EM HMM with 1 states for AAPL has log likelihood of 144060.51843420844
+K-Means HMM with 1 states for AAPL has BIC score of -17886.866603143422
+
+VI HMM with 2 states for AAPL has log likelihood of 193102.3610287908
+EM HMM with 2 states for AAPL has log likelihood of 148743.76876266729
+K-Means HMM with 2 states for AAPL has BIC score of -19045.04517419658
+
+VI HMM with 3 states for AAPL has log likelihood of 192322.97326244376
+EM HMM with 3 states for AAPL has log likelihood of 159530.8774582452
+K-Means HMM with 3 states for AAPL has BIC score of -19572.43663192925
+
+VI HMM with 4 states for AAPL has log likelihood of 194173.68802581294
+EM HMM with 4 states for AAPL has log likelihood of 157399.00005820562
+K-Means HMM with 4 states for AAPL has BIC score of -20028.28028072628
+
+VI HMM with 5 states for AAPL has log likelihood of 203111.00224438336
+EM HMM with 5 states for AAPL has log likelihood of 160980.55833885557
+K-Means HMM with 5 states for AAPL has BIC score of -20074.44314275317
+
+VI HMM with 6 states for AAPL has log likelihood of 202387.32247227267
+EM HMM with 6 states for AAPL has log likelihood of 160066.31792883304
+K-Means HMM with 6 states for AAPL has BIC score of -20306.957524058926
+
+VI HMM with 7 states for AAPL has log likelihood of 201209.96754317582
+EM HMM with 7 states for AAPL has log likelihood of 159933.95351912535
+K-Means HMM with 7 states for AAPL has BIC score of -20241.609703983144
+
+MAPE Error for AAPL with latency of 14 days (VI): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 14 days (VI): 1.3063805851180121
+MAPE Error for AAPL with latency of 14 days (EM): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 14 days (EM): 1.3063805851180121
+MAPE Error for AAPL with latency of 14 days (KMeans): 1.3384958267120035
+MAPE Error Standard Deviation for AAPL with latency of 14 days (KMeans): 1.3063805851180121
+
+----------------------------------------------------------------------------------------
+ 
+HMM with for NVDA with latency of 2 days
+
+VI HMM with 1 states for NVDA has log likelihood of 33179.24159838904
+EM HMM with 1 states for NVDA has log likelihood of 24913.362435903982
+K-Means HMM with 1 states for NVDA has BIC score of -14931.325123118126
+
+VI HMM with 2 states for NVDA has log likelihood of 34248.53149833885
+EM HMM with 2 states for NVDA has log likelihood of 26006.834147849626
+K-Means HMM with 2 states for NVDA has BIC score of -16120.410381256186
+
+VI HMM with 3 states for NVDA has log likelihood of 34924.485858945576
+EM HMM with 3 states for NVDA has log likelihood of 27419.738535528017
+K-Means HMM with 3 states for NVDA has BIC score of -16688.504674960557
+
+VI HMM with 4 states for NVDA has log likelihood of 35965.507174771774
+EM HMM with 4 states for NVDA has log likelihood of 27654.28777670519
+K-Means HMM with 4 states for NVDA has BIC score of -17006.51528299728
+
+VI HMM with 5 states for NVDA has log likelihood of 34838.10270746704
+EM HMM with 5 states for NVDA has log likelihood of 26138.65476977693
+K-Means HMM with 5 states for NVDA has BIC score of -17037.316850283838
+
+VI HMM with 6 states for NVDA has log likelihood of 34896.63493724301
+EM HMM with 6 states for NVDA has log likelihood of 26700.387332895174
+K-Means HMM with 6 states for NVDA has BIC score of -17166.57927235078
+
+VI HMM with 7 states for NVDA has log likelihood of 35871.93715013167
+EM HMM with 7 states for NVDA has log likelihood of 27413.648154372877
+K-Means HMM with 7 states for NVDA has BIC score of -17291.756410324375
+
+MAPE Error for NVDA with latency of 2 days (VI): 2.9356385168177446
+MAPE Error Standard Deviation for NVDA with latency of 2 days (VI): 2.302502646998572
+MAPE Error for NVDA with latency of 2 days (EM): 2.846662479643806
+MAPE Error Standard Deviation for NVDA with latency of 2 days (EM): 2.7289970245553183
+MAPE Error for NVDA with latency of 2 days (KMeans): 2.8163606965678234
+MAPE Error Standard Deviation for NVDA with latency of 2 days (KMeans): 2.3623001504896344
+
+----------------------------------------------------------------------------------------
+
+HMM with for NVDA with latency of 4 days
+
+VI HMM with 1 states for NVDA has log likelihood of 55205.61143765012
+EM HMM with 1 states for NVDA has log likelihood of 41434.66664460395
+K-Means HMM with 1 states for NVDA has BIC score of -14931.325123118126
+
+VI HMM with 2 states for NVDA has log likelihood of 57005.04303875004
+EM HMM with 2 states for NVDA has log likelihood of 43404.40237353454
+K-Means HMM with 2 states for NVDA has BIC score of -16109.276591384825
+
+VI HMM with 3 states for NVDA has log likelihood of 57008.65939287834
+EM HMM with 3 states for NVDA has log likelihood of 44605.71342629736
+K-Means HMM with 3 states for NVDA has BIC score of -16688.504674960557
+
+VI HMM with 4 states for NVDA has log likelihood of 59970.97803203577
+EM HMM with 4 states for NVDA has log likelihood of 44168.78063735334
+K-Means HMM with 4 states for NVDA has BIC score of -17006.515282997283
+
+VI HMM with 5 states for NVDA has log likelihood of 58751.12978132786
+EM HMM with 5 states for NVDA has log likelihood of 45467.97171303855
+K-Means HMM with 5 states for NVDA has BIC score of -17057.9371217516
+
+VI HMM with 6 states for NVDA has log likelihood of 58273.41329033975
+EM HMM with 6 states for NVDA has log likelihood of 44345.645811688635
+K-Means HMM with 6 states for NVDA has BIC score of -17190.9580702939
+
+VI HMM with 7 states for NVDA has log likelihood of 60461.51211311593
+EM HMM with 7 states for NVDA has log likelihood of 46110.03318159723
+K-Means HMM with 7 states for NVDA has BIC score of -17083.66021679146
+
+MAPE Error for NVDA with latency of 4 days (VI): 2.870209235147736
+MAPE Error Standard Deviation for NVDA with latency of 4 days (VI): 2.3217436259604005
+MAPE Error for NVDA with latency of 4 days (EM): 2.846662479643806
+MAPE Error Standard Deviation for NVDA with latency of 4 days (EM): 2.7289970245553183
+MAPE Error for NVDA with latency of 4 days (KMeans): 2.9356385168177446
+MAPE Error Standard Deviation for NVDA with latency of 4 days (KMeans): 2.302502646998572
+
+----------------------------------------------------------------------------------------
+
+HMM with for NVDA with latency of 7 days
+
+VI HMM with 1 states for NVDA has log likelihood of 88068.81296616192
+EM HMM with 1 states for NVDA has log likelihood of 66079.58369718345
+K-Means HMM with 1 states for NVDA has BIC score of -14931.325123118126
+
+VI HMM with 2 states for NVDA has log likelihood of 90993.60006222603
+EM HMM with 2 states for NVDA has log likelihood of 69183.77530236413
+K-Means HMM with 2 states for NVDA has BIC score of -16120.410381256186
+
+VI HMM with 3 states for NVDA has log likelihood of 93232.30058914481
+EM HMM with 3 states for NVDA has log likelihood of 73484.38524164238
+K-Means HMM with 3 states for NVDA has BIC score of -16680.297251717744
+
+VI HMM with 4 states for NVDA has log likelihood of 93909.14067954353
+EM HMM with 4 states for NVDA has log likelihood of 70552.3669797333
+K-Means HMM with 4 states for NVDA has BIC score of -17006.51528299728
+
+VI HMM with 5 states for NVDA has log likelihood of 95340.29642543168
+EM HMM with 5 states for NVDA has log likelihood of 73898.65037658683
+K-Means HMM with 5 states for NVDA has BIC score of -17129.372393250927
+
+VI HMM with 6 states for NVDA has log likelihood of 95629.86994057738
+EM HMM with 6 states for NVDA has log likelihood of 73120.73948531473
+K-Means HMM with 6 states for NVDA has BIC score of -17182.94922566503
+
+VI HMM with 7 states for NVDA has log likelihood of 96789.04490899856
+EM HMM with 7 states for NVDA has log likelihood of 73661.62864500405
+K-Means HMM with 7 states for NVDA has BIC score of -17298.095770886917
+
+MAPE Error for NVDA with latency of 7 days (VI): 2.870209235147736
+MAPE Error Standard Deviation for NVDA with latency of 7 days (VI): 2.3217436259604005
+MAPE Error for NVDA with latency of 7 days (EM): 2.846662479643806
+MAPE Error Standard Deviation for NVDA with latency of 7 days (EM): 2.7289970245553183
+MAPE Error for NVDA with latency of 7 days (KMeans): 2.8163606965678234
+MAPE Error Standard Deviation for NVDA with latency of 7 days (KMeans): 2.3623001504896344
+
+----------------------------------------------------------------------------------------
+
+HMM with for NVDA with latency of 14 days
+
+VI HMM with 1 states for NVDA has log likelihood of 163926.8230253379
+EM HMM with 1 states for NVDA has log likelihood of 122951.77470138694
+K-Means HMM with 1 states for NVDA has BIC score of -14931.325123118126
+
+VI HMM with 2 states for NVDA has log likelihood of 169298.56588451148
+EM HMM with 2 states for NVDA has log likelihood of 128605.86007478888
+K-Means HMM with 2 states for NVDA has BIC score of -16120.410381256186
+
+VI HMM with 3 states for NVDA has log likelihood of 169424.54620187942
+EM HMM with 3 states for NVDA has log likelihood of 128277.06560975805
+K-Means HMM with 3 states for NVDA has BIC score of -16680.297251717744
+
+VI HMM with 4 states for NVDA has log likelihood of 172325.54303120507
+EM HMM with 4 states for NVDA has log likelihood of 133146.60424623528
+K-Means HMM with 4 states for NVDA has BIC score of -17006.515282997283
+
+VI HMM with 5 states for NVDA has log likelihood of 178073.17587895447
+EM HMM with 5 states for NVDA has log likelihood of 136939.5765622107
+K-Means HMM with 5 states for NVDA has BIC score of -17125.809428527144
+
+VI HMM with 6 states for NVDA has log likelihood of 176221.8055267381
+EM HMM with 6 states for NVDA has log likelihood of 135219.0354704281
+K-Means HMM with 6 states for NVDA has BIC score of -17193.044695325247
+
+VI HMM with 7 states for NVDA has log likelihood of 180835.92729657897
+EM HMM with 7 states for NVDA has log likelihood of 138775.7268543402
+K-Means HMM with 7 states for NVDA has BIC score of -17136.40224809172
+
+MAPE Error for NVDA with latency of 14 days (VI): 2.870209235147736
+MAPE Error Standard Deviation for NVDA with latency of 14 days (VI): 2.3217436259604005
+MAPE Error for NVDA with latency of 14 days (EM): 2.846662479643806
+MAPE Error Standard Deviation for NVDA with latency of 14 days (EM): 2.7289970245553183
+MAPE Error for NVDA with latency of 14 days (KMeans): 2.9356385168177446
+MAPE Error Standard Deviation for NVDA with latency of 14 days (KMeans): 2.302502646998572
+
+----------------------------------------------------------------------------------------
+
+HMM with for MSFT with latency of 2 days
+
+VI HMM with 1 states for MSFT has log likelihood of 37840.513831571574
+EM HMM with 1 states for MSFT has log likelihood of 29578.55606221995
+K-Means HMM with 1 states for MSFT has BIC score of -18183.528758748704
+
+VI HMM with 2 states for MSFT has log likelihood of 38996.76505616929
+EM HMM with 2 states for MSFT has log likelihood of 30436.543085991747
+K-Means HMM with 2 states for MSFT has BIC score of -19135.03773460177
+
+VI HMM with 3 states for MSFT has log likelihood of 39475.019366958644
+EM HMM with 3 states for MSFT has log likelihood of 32110.936939072555
+K-Means HMM with 3 states for MSFT has BIC score of -19703.254248998997
+
+VI HMM with 4 states for MSFT has log likelihood of 40684.15496148174
+EM HMM with 4 states for MSFT has log likelihood of 31942.193061005863
+K-Means HMM with 4 states for MSFT has BIC score of -20269.00400352523
+
+VI HMM with 5 states for MSFT has log likelihood of 40572.47506605636
+EM HMM with 5 states for MSFT has log likelihood of 31867.255297761054
+K-Means HMM with 5 states for MSFT has BIC score of -20154.315107602215
+
+VI HMM with 6 states for MSFT has log likelihood of 40748.76627874124
+EM HMM with 6 states for MSFT has log likelihood of 31859.42815619409
+K-Means HMM with 6 states for MSFT has BIC score of -20313.89705570579
+
+VI HMM with 7 states for MSFT has log likelihood of 40301.8550515483
+EM HMM with 7 states for MSFT has log likelihood of 31645.737391164454
+K-Means HMM with 7 states for MSFT has BIC score of -20558.295373661967
+
+MAPE Error for MSFT with latency of 2 days (VI): 1.0451045036037312
+MAPE Error Standard Deviation for MSFT with latency of 2 days (VI): 0.9207254975880576
+MAPE Error for MSFT with latency of 2 days (EM): 1.0771581586306005
+MAPE Error Standard Deviation for MSFT with latency of 2 days (EM): 0.8827354569686385
+MAPE Error for MSFT with latency of 2 days (KMeans): 1.0771581586306005
+MAPE Error Standard Deviation for MSFT with latency of 2 days (KMeans): 0.8827354569686385
+
+----------------------------------------------------------------------------------------
+
+HMM with for MSFT with latency of 4 days
+
+VI HMM with 1 states for MSFT has log likelihood of 62968.21403317787
+EM HMM with 1 states for MSFT has log likelihood of 49205.5397958438
+K-Means HMM with 1 states for MSFT has BIC score of -18183.528758748704
+
+VI HMM with 2 states for MSFT has log likelihood of 64942.89906938253
+EM HMM with 2 states for MSFT has log likelihood of 51455.877884167945
+K-Means HMM with 2 states for MSFT has BIC score of -19126.75951135138
+
+VI HMM with 3 states for MSFT has log likelihood of 64669.978614216074
+EM HMM with 3 states for MSFT has log likelihood of 50615.18562756572
+K-Means HMM with 3 states for MSFT has BIC score of -19703.254248998997
+
+VI HMM with 4 states for MSFT has log likelihood of 68258.26280084717
+EM HMM with 4 states for MSFT has log likelihood of 54010.08958604002
+K-Means HMM with 4 states for MSFT has BIC score of -19986.852930411085
+
+VI HMM with 5 states for MSFT has log likelihood of 68439.06874236293
+EM HMM with 5 states for MSFT has log likelihood of 53785.373241429996
+K-Means HMM with 5 states for MSFT has BIC score of -20164.158823560767
+
+VI HMM with 6 states for MSFT has log likelihood of 67986.80350899964
+EM HMM with 6 states for MSFT has log likelihood of 53323.47225296444
+K-Means HMM with 6 states for MSFT has BIC score of -20403.606209030033
+
+VI HMM with 7 states for MSFT has log likelihood of 67558.9827210487
+EM HMM with 7 states for MSFT has log likelihood of 53346.54199247214
+K-Means HMM with 7 states for MSFT has BIC score of -20286.219966807344
+
+MAPE Error for MSFT with latency of 4 days (VI): 1.0451045036037312
+MAPE Error Standard Deviation for MSFT with latency of 4 days (VI): 0.9207254975880576
+MAPE Error for MSFT with latency of 4 days (EM): 1.0426501130196153
+MAPE Error Standard Deviation for MSFT with latency of 4 days (EM): 0.9618372241566333
+MAPE Error for MSFT with latency of 4 days (KMeans): 1.0771581586306005
+MAPE Error Standard Deviation for MSFT with latency of 4 days (KMeans): 0.8827354569686385
+
+HMM with for MSFT with latency of 7 days
+
+VI HMM with 1 states for MSFT has log likelihood of 100458.03670833011
+EM HMM with 1 states for MSFT has log likelihood of 78479.83552055397
+K-Means HMM with 1 states for MSFT has BIC score of -18183.528758748704
+
+VI HMM with 2 states for MSFT has log likelihood of 103285.52385764336
+EM HMM with 2 states for MSFT has log likelihood of 81240.22226546983
+K-Means HMM with 2 states for MSFT has BIC score of -19125.73147279191
+
+VI HMM with 3 states for MSFT has log likelihood of 105434.28245699625
+EM HMM with 3 states for MSFT has log likelihood of 80788.42213894147
+K-Means HMM with 3 states for MSFT has BIC score of -19703.254248998997
+
+VI HMM with 4 states for MSFT has log likelihood of 107463.86675673634
+EM HMM with 4 states for MSFT has log likelihood of 86490.57404950853
+K-Means HMM with 4 states for MSFT has BIC score of -20269.00400352523
+
+VI HMM with 5 states for MSFT has log likelihood of 109702.9866104481
+EM HMM with 5 states for MSFT has log likelihood of 86569.00102044024
+K-Means HMM with 5 states for MSFT has BIC score of -20154.315107602215
+
+VI HMM with 6 states for MSFT has log likelihood of 108946.06542097297
+EM HMM with 6 states for MSFT has log likelihood of 86353.56308301345
+K-Means HMM with 6 states for MSFT has BIC score of -20306.138015384768
+
+VI HMM with 7 states for MSFT has log likelihood of 107661.94260339603
+EM HMM with 7 states for MSFT has log likelihood of 85944.22949905424
+K-Means HMM with 7 states for MSFT has BIC score of -20535.61872175168
+
+MAPE Error for MSFT with latency of 7 days (VI): 1.0426501130196153
+MAPE Error Standard Deviation for MSFT with latency of 7 days (VI): 0.9618372241566333
+MAPE Error for MSFT with latency of 7 days (EM): 1.3028623703600317
+MAPE Error Standard Deviation for MSFT with latency of 7 days (EM): 1.1496626859475627
+MAPE Error for MSFT with latency of 7 days (KMeans): 1.0451045036037312
+MAPE Error Standard Deviation for MSFT with latency of 7 days (KMeans): 0.9207254975880576
+
+----------------------------------------------------------------------------------------
+
+HMM with for MSFT with latency of 14 days
+
+VI HMM with 1 states for MSFT has log likelihood of 186995.5745201667
+EM HMM with 1 states for MSFT has log likelihood of 146033.8257663296
+K-Means HMM with 1 states for MSFT has BIC score of -18183.528758748704
+
+VI HMM with 2 states for MSFT has log likelihood of 192995.91974489955
+EM HMM with 2 states for MSFT has log likelihood of 151330.2650187785
+K-Means HMM with 2 states for MSFT has BIC score of -19125.73147279191
+
+VI HMM with 3 states for MSFT has log likelihood of 202922.05090743143
+EM HMM with 3 states for MSFT has log likelihood of 161881.28723971237
+K-Means HMM with 3 states for MSFT has BIC score of -19703.254248998997
+
+VI HMM with 4 states for MSFT has log likelihood of 203895.22564016283
+EM HMM with 4 states for MSFT has log likelihood of 159072.48936752093
+K-Means HMM with 4 states for MSFT has BIC score of -20079.033449374645
+
+VI HMM with 5 states for MSFT has log likelihood of 202855.60672260026
+EM HMM with 5 states for MSFT has log likelihood of 162555.59274681713
+K-Means HMM with 5 states for MSFT has BIC score of -20430.766788789828
+
+VI HMM with 6 states for MSFT has log likelihood of 199631.6857460345
+EM HMM with 6 states for MSFT has log likelihood of 161725.40443744144
+K-Means HMM with 6 states for MSFT has BIC score of -20394.679782404626
+
+VI HMM with 7 states for MSFT has log likelihood of 201146.65988794778
+EM HMM with 7 states for MSFT has log likelihood of 160996.64445357138
+K-Means HMM with 7 states for MSFT has BIC score of -20351.639898977686
+
+MAPE Error for MSFT with latency of 14 days (VI): 1.0426501130196153
+MAPE Error Standard Deviation for MSFT with latency of 14 days (VI): 0.9618372241566333
+MAPE Error for MSFT with latency of 14 days (EM): 1.3028623703600317
+MAPE Error Standard Deviation for MSFT with latency of 14 days (EM): 1.1496626859475627
+MAPE Error for MSFT with latency of 14 days (KMeans): 1.0771581586306005
+MAPE Error Standard Deviation for MSFT with latency of 14 days (KMeans): 0.8827354569686385
+
+Total time of execution: 5:43:25
