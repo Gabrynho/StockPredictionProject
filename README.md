@@ -6,9 +6,24 @@ The aim of this project is to evaluate the efficacy of various methodologies for
 
 ## HMM with Expectation-Maximization (EM) Algorithm
 
-HMMs are statistical models that represent systems with hidden states through observable sequences, where $$ \begin{cases} x_{i}=\text{observations}\\z_{i}=\text{hidden states} \end{cases}$$
+HMMs are statistical models that represent systems with hidden states through observable sequences, where
 
-Hidden Markov Models can be described as $$ \lambda=(A,B,\pi) $$ where $$ \begin{cases}A=\text{transition probability matrix}\\ B=\text{emission probability matrix}\\ \pi=\text{ initial probabilities of the states at }t=0\end{cases} $$
+$$
+\begin{cases}
+x_{i}=\text{observations} \\
+z_{i}=\text{hidden states}
+\end{cases}
+$$
+
+Hidden Markov Models can be described as $\lambda=(A,B,\pi)$ where
+
+$$
+\begin{cases}
+A=\text{transition probability matrix}\\
+B=\text{emission probability matrix}\\
+\pi=\text{ initial probabilities of the states at }t=0
+\end{cases}
+$$
 
 Training of the above HMM from given sequences of observations is done using the Baum-Welch algorithm which uses Expectation-Maximization (EM) to arrive at the optimal parameters for the HMM:
 
